@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-<br><br>
+<br>
 
 <h3>activity_main.xml</h3>
 
@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 </LinearLayout>
 ```
 
-<br><br>
+<br><br><br>
 
 <h2>Display Message Activity</h2>
 <h3>DisplayMessageActivity.java</h3>
@@ -88,7 +88,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
 }
 ```
 
-<br><br>
+<br>
 
 <h3>activity_display_message.xml</h3>
 
