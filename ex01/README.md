@@ -1,6 +1,5 @@
-<h1>예제01. 인텐트의 기초</h1>
-<h2>Main Activity</h2>
-<h3>MainActivity.java</h3>
+<h1>Main Activity</h1>
+<h2>MainActivity.java</h2>
 
 ```Java
 package com.example.myapplication;
@@ -33,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
 <br>
 
-<h3>activity_main.xml</h3>
+<h2>activity_main.xml</h2>
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -57,8 +56,8 @@ public class MainActivity extends AppCompatActivity {
 
 <br><br><br>
 
-<h2>Display Message Activity</h2>
-<h3>DisplayMessageActivity.java</h3>
+<h1>Display Message Activity</h1>
+<h2>DisplayMessageActivity.java</h2>
 
 ```Java
 package com.example.myapplication;
@@ -90,7 +89,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
 
 <br>
 
-<h3>activity_display_message.xml</h3>
+<h2>activity_display_message.xml</h2>
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
