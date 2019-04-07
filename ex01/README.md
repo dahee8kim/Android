@@ -1,7 +1,9 @@
 <h1>예제01. 인텐트의 기초</h1>
 <h2>Main Activity</h2>
-<h2>MainActivity.java</h2>
-<pre><code>package com.example.myapplication;
+<h3>MainActivity.java</h3>
+
+```Java
+package com.example.myapplication;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -26,5 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         startActivity(intent);
     }
-}</code></pre>
+}
+```
+
 <h2>Display Message Activity</h2>
