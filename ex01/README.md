@@ -1,3 +1,5 @@
+<h1>인텐트(Intent)의 기초</h1>
+<br><br><br>
 <h1>Main Activity</h1>
 <h2>MainActivity.java</h2>
 
