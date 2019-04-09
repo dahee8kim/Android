@@ -27,7 +27,8 @@
 - 간단한 사용자 인터페이스 구성<br>
 - 인텐트: 다른 액티비티 실행<br>
 <br>
-안드로이드에서 화면을 구성하는 기본 요소인 <code>뷰(View)</code>와 <code>뷰 그룹(ViewGroup)</code>의 개념을 학습한다.<br>
+안드로이드에서 화면을 구성하는 기본 요소인 <code>뷰(View)</code>와 <code>뷰 그룹(ViewGroup)</code>의 개념을 학습한다.<br><br>
+<img src="https://github.com/dahee8kim/Android/mdRes/View_ViewGroup_hierarchy.png">
 	<br><br>
 <h2>4. 자주 사용하는 뷰, 유용한 뷰</h2>
 - 자주 사용하는 뷰<br>
