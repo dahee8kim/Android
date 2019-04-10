@@ -8,6 +8,7 @@
 <br>
 <br>
 		<h3>1.2.2. 안드로이드 스튜디오 설치</h3>
+		<img src="https://gregtrevellick.gallerycdn.vsassets.io/extensions/gregtrevellick/openinandroidstudio/1.1.52/1540120323482/ThirdPartyLogo.png" title="Android Studio" alt="Android Studio"><br>
 		<code>안드로이드 스튜디오(Android Studio)</code>는 구글에서 개발한 <code>안드로이드 통합개발환경(IDE)</code>이다. 안드로이드는 최소 3.0, 그 이상의 최신 버전을 사용해도 무관하다.<br>
 <br>
 		<a href="https://developer.android.com/studio">Android Studio Download Link</a><br>
