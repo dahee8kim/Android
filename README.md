@@ -7,9 +7,9 @@
 <br>
 <i>오준석 저 / 루비페이퍼 2018년 03월 14일</i>
 <br><br><br>
-<h2>1. 안드로이드 앱 개발 준비하기</h2>
-- 안드로이드 버전별 특징<br>
-- 안드로이드 개발 준비<br>
+<h2>1. <a href="https://github.com/dahee8kim/Android/tree/master/chapter1">안드로이드 앱 개발 준비하기</a></h2>
+1.1. <a href="https://github.com/dahee8kim/Android/tree/master/chapter1#11-안드로이드-버전별-특징">안드로이드 버전별 특징</a><br>
+1.2. <a href="https://github.com/dahee8kim/Android/tree/master/chapter1#12-안드로이드-개발-준비">안드로이드 개발 준비</a><br>
 <br>
 본격적으로 안드로이드 개발을 공부하기 전에 안드로이드가 사용자 관점에서 어떻게 변화했는지를 가볍게 다뤄본다. 또한 안드로이드 앱을 개발하는 환경도 구축해본다.<br>
 <br><br>
