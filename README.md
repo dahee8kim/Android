@@ -7,17 +7,17 @@
 <br>
 <i>오준석 저 / 루비페이퍼 2018년 03월 14일</i>
 <br><br><br>
-<h2><a href="https://github.com/dahee8kim/Android/tree/master/chapter1">1. 안드로이드 앱 개발 준비하기</a></h2>
-<a href="https://github.com/dahee8kim/Android/tree/master/chapter1#11-안드로이드-버전별-특징">1.1. 안드로이드 버전별 특징</a><br>
-<a href="https://github.com/dahee8kim/Android/tree/master/chapter1#12-안드로이드-개발-준비">1.2. 안드로이드 개발 준비</a><br>
+<h2><a href="https://github.com/dahee8kim/Android/tree/master/chapter1">1.</a> 안드로이드 앱 개발 준비하기</h2>
+<a href="https://github.com/dahee8kim/Android/tree/master/chapter1#11-안드로이드-버전별-특징">1.1.</a> 안드로이드 버전별 특징<br>
+<a href="https://github.com/dahee8kim/Android/tree/master/chapter1#12-안드로이드-개발-준비">1.2.</a> 안드로이드 개발 준비<br>
 <br>
 본격적으로 안드로이드 개발을 공부하기 전에 안드로이드가 사용자 관점에서 어떻게 변화했는지를 가볍게 다뤄본다. 또한 안드로이드 앱을 개발하는 환경도 구축해본다.<br>
 <br><br>
-<h2>2. 첫 번째 앱 만들기</h2>
-- 안드로이드 프로젝트 만들기<br>
-- 프로젝트 구성<br>
-- 그레이들 빌드 시스템<br>
-- 앱 실행<br>
+<h2><a href="https://github.com/dahee8kim/Android/blob/master/chapter2/README.md#2-첫-번째-앱-만들기">2.</a> 첫 번째 앱 만들기</h2>
+<a href="https://github.com/dahee8kim/Android/blob/master/chapter2/README.md#21-안드로이드-프로젝트-만들기">2.1.</a> 안드로이드 프로젝트 만들기<br>
+2.2. 프로젝트 구성<br>
+2.3. 그레이들 빌드 시스템<br>
+2.4. 앱 실행<br>
 <br>
 간단한 첫 번째 앱을 만들면서 안드로이드 앱 개발의 흐름을 익힌다. 앱을 개발하면서 필요한 <code>기본 개념</code>과 <code>안드로이드 스튜디오의 사용법</code>도 함께 익혀본다. 직접 예제를 만들어보면서 레이아웃을 구성하는 방법과 레이아웃을 자바 클래스에서 불러오는 방법을 배우고, 안드로이드 화면을 구성하는 단위가 무엇이며 화면 간의 이동 방법은 무엇인지 배워보도록 한다.<br>
 	<br><br>
