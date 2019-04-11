@@ -13,8 +13,8 @@
 <br>
 본격적으로 안드로이드 개발을 공부하기 전에 안드로이드가 사용자 관점에서 어떻게 변화했는지를 가볍게 다뤄본다. 또한 안드로이드 앱을 개발하는 환경도 구축해본다.<br>
 <br><br>
-<h2><a href="https://github.com/dahee8kim/Android/blob/master/chapter2/README.md#2-첫-번째-앱-만들기">2.</a> 첫 번째 앱 만들기</h2>
-<a href="https://github.com/dahee8kim/Android/blob/master/chapter2/README.md#21-안드로이드-프로젝트-만들기">2.1.</a> 안드로이드 프로젝트 만들기<br>
+<h2><a href="https://github.com/dahee8kim/Android/blob/master/chapter2#2-첫-번째-앱-만들기">2.</a> 첫 번째 앱 만들기</h2>
+<a href="https://github.com/dahee8kim/Android/blob/master/chapter2#21-안드로이드-프로젝트-만들기">2.1.</a> 안드로이드 프로젝트 만들기<br>
 2.2. 프로젝트 구성<br>
 2.3. 그레이들 빌드 시스템<br>
 2.4. 앱 실행<br>
