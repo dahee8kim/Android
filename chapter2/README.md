@@ -54,6 +54,7 @@
 <br>
 <br>
 <h2>2.2. 프로젝트 구성</h2>
+<img src="https://github.com/dahee8kim/Android/blob/master/mdRes/android_project_structure.png" alt="안드로이드 프로젝트 구조도" title="안드로이드 프로젝트 구조도"><br>
 <h3>2.2.1. app 부분 살펴보기</h3>
 프로젝트는 크게 <code>app</code>과 <code>Gradle Scripts</code> 두 부분으로 구성된다. app 부분은 <code>메니페스트(manifests 폴더), 소스코드(java 폴더), 리소스(res 폴더)</code>가 위치한다.<br>
 소스코드는 앱의 로직을 자바 코드로 작성한 파일을 말하며, 리소스란 소스코드를 제외한 앱 개발에 필요한 모든 자원(레이아웃, 아이콘, 이미지...)이 된다.<br>
@@ -101,6 +102,7 @@
 jpg, png, gif, 나인패치와 같은 이미지 파일과 안드로이드에서 이미지를 표현하는 특별한 XML 파일이 위치한다. <br>
 <h5>res/layout</h5>
 사용자 인터페이스 레이아웃을 정의하는 XML 파일이 위치한다.<br>
+<br>
 <i>프로젝트를 생성하면 함께 생성되는 activity_main.xml은 메인 액티비티의 레이아웃을 정의하고 있다.</i><br>
 <h5>res/mipmap</h5>
 앱을 실행하는 아이콘 파일이 위치한다. 아이콘을 나타내는 화면의 해상도에 따라 <code>mdpi, hdpi, xhdpi, xxhdpi, xxxhdpi</code>로 구분한다.<br>
