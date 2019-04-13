@@ -57,6 +57,7 @@
 <img src="https://github.com/dahee8kim/Android/blob/master/mdRes/android_project_structure.png" alt="안드로이드 프로젝트 구조도" title="안드로이드 프로젝트 구조도"><br>
 <h3>2.2.1. app 부분 살펴보기</h3>
 프로젝트는 크게 <code>app</code>과 <code>Gradle Scripts</code> 두 부분으로 구성된다. app 부분은 <code>메니페스트(manifests 폴더), 소스코드(java 폴더), 리소스(res 폴더)</code>가 위치한다.<br>
+<br>
 소스코드는 앱의 로직을 자바 코드로 작성한 파일을 말하며, 리소스란 소스코드를 제외한 앱 개발에 필요한 모든 자원(레이아웃, 아이콘, 이미지...)이 된다.<br>
 <br>
 <h4>manifests: 매니페스트</h4>
@@ -85,7 +86,7 @@
 </manifest>
 ```
 
-위의 매니페스트 파일을 해석하면 이 앱은 하나의 <code>액티비티(activity)</code> 를 가지고 있고, 이 액티비티가 메인 액티비티이며, 실행 가능하다는 내용을 <code><intent-filter></code>에 포함하고 있다. 만약 화면이 두 개인 앱이었다면 액티비티가 두 개 필요하고, 모두 매니페스트 파일 내부에 기술해야 한다.<br>
+위의 매니페스트 파일을 해석하면 이 앱은 하나의 <code>액티비티(activity)</code> 를 가지고 있고, 이 액티비티가 메인 액티비티이며, 실행 가능하다는 내용을 <code>&lt;intent-filter&gt;</code>에 포함하고 있다. 만약 화면이 두 개인 앱이었다면 액티비티가 두 개 필요하고, 모두 매니페스트 파일 내부에 기술해야 한다.<br>
 <br>
 <h4>java: 자바 소스</h4>
 자바 소스 파일이 위치하는 곳이며 일반 소스 파일과 테스트 소스 파일을 작성하는 폴더로 나누어져 있다.<br>
@@ -99,7 +100,7 @@
 <h4>res: 리소스</h4>
 앱을 개발할 때 필요한 그림, 레이아웃, 아이콘, 간단한 값 등의 리소스가 <code>drawable, layout, mipmap, values</code> 디렉터리에 위치한다.<br>
 <h5>res/drawable</h5>
-jpg, png, gif, 나인패치와 같은 이미지 파일과 안드로이드에서 이미지를 표현하는 특별한 XML 파일이 위치한다. <br>
+jpg, png, gif, 나인패치와 같은 이미지 파일과 안드로이드에서 이미지를 표현하는 특별한 XML 파일이 위치한다.<br>
 <h5>res/layout</h5>
 사용자 인터페이스 레이아웃을 정의하는 XML 파일이 위치한다.<br>
 <br>
